@@ -139,7 +139,7 @@ print(False)
 この矢印を動かしながら絵を描くことができます。
 
 ```python
-import tutrtle
+import turtle
 t = turtle.Turtle()
 ```
 
